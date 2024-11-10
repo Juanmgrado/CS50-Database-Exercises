@@ -58,4 +58,20 @@ Cada semana contiene ejercicios específicos que exploran distintos temas de SQL
 
 ## FP
 - Final Project
- - Final Project
+- Final Project
+
+## Instrucciones de Uso
+1. Clona este repositorio.
+2. Abre los archivos SQL en tu herramienta de SQL preferida.
+3. Corre cada archivo de SQL en una base de datos `SQLite` para ver los resultados de las consultas.
+
+---
+
+### Lo que Aprendí
+A lo largo de este curso, aprendí cómo:
+- Crear bases de datos y relaciones entre tablas.
+- Aplicar restricciones de integridad y claves foráneas.
+- Realizar consultas complejas, incluyendo subconsultas y agregaciones.
+
+---
+
